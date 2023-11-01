@@ -5,7 +5,7 @@ bilingual_book_maker 是一个 AI 翻译工具，使用 ChatGPT 帮助用户制�
 ![image](https://user-images.githubusercontent.com/15976103/222317531-a05317c5-4eee-49de-95cd-04063d9539d9.png)
 
 
-## 准备
+## 准备123
 
 1. ChatGPT or OpenAI token [^token]
 2. epub/txt books
