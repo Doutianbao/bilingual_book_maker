@@ -1,3 +1,4 @@
+<!-- This code block contains a markdown hyperlink that links to the Chinese and English versions of the README file for the bilingual_book_maker project. The FILEPATH is specified as /c:/Users/DocXu/GitHub/bilingual_book_maker/README.md. -->
 **[中文](./README-CN.md) | English**
 [![litellm](https://img.shields.io/badge/%20%F0%9F%9A%85%20liteLLM-OpenAI%7CAzure%7CAnthropic%7CPalm%7CCohere%7CReplicate%7CHugging%20Face-blue?color=green)](https://github.com/BerriAI/litellm)
 
